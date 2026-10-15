@@ -1,4 +1,3 @@
-# andrehulka
 # Hi, I'm andrehulka👋
 
 Physics graduate and Python developer, available for freelance work. / Físico y desarrollador Python, disponible para trabajos freelance.
