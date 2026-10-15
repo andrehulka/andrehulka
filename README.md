@@ -1,5 +1,5 @@
 # andrehulka
-# Hi, I'm [ANDREHULKA] 👋
+# Hi, I'm ANDREHULKA 👋
 
 Physics graduate and Python developer, available for freelance work. / Físico y desarrollador Python, disponible para trabajos freelance.
 
@@ -12,7 +12,7 @@ Physics graduate and Python developer, available for freelance work. / Físico y
 
 ## Featured project / Proyecto destacado
 
-**[Daily Tracker](https://github.com/TU-USUARIO/daily-tracker)**: desktop app with a step-by-step log, year heatmap and 8 embedded charts, storing data in Excel.
+**[Daily Tracker(https://github.com/andrehulka/daily-tracker)**: desktop app with a step-by-step log, year heatmap and 8 embedded charts, storing data in Excel.
 
 ## Tech / Tecnologías
 
@@ -22,5 +22,5 @@ Physics graduate and Python developer, available for freelance work. / Físico y
 
 ## Contact / Contacto
 
-📧 [andrehulk@gmail.com] · 🌍 Based in Spain, working remotely / Desde España, trabajo en remoto
+📧 andrehulk@gmail.com · 🌍 Based in Spain, working remotely / Desde España, trabajo en remoto
 
